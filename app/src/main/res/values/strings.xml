@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LockIn</string>
+    <string name="admin_description">Protects the fixed focus commitment from normal removal.</string>
+    <string name="accessibility_description">Tracks time spent in apps selected for LockIn so the shared daily 40-minute allowance can be enforced.</string>
+</resources>
